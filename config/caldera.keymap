@@ -15,7 +15,7 @@
 // | CTRL | ALT | GUI | SPC | SPC | SPC |     | SPC | LOW |LARW |DARW |UARW | RARW |
                         bindings = <
    &kp GRAVE  &kp N1    &kp N2    &kp N3     &kp N4     &kp N5               &kp N6     &kp N7  &kp N8     &kp N9    &kp N0    &kp BSPC
-   &kp TAB    &kp Q     &kp W     &kp F      &kp P      &kp B                &kp J      &kp L   &kp U      &kp Y     &kp :     &kp BSLH
+   &kp TAB    &kp Q     &kp W     &kp F      &kp P      &kp B                &kp J      &kp L   &kp U      &kp Y     &kp SEMI  &kp BSLH
    &kp LCTRL  &kp A     &kp R     &kp S      &kp T      &kp G                &kp M      &kp N   &kp E      &kp I     &kp O     &kp RET
    &kp LSHFT  &kp Z     &kp X     &kp C      &kp V      &kp G                &kp K      &kp H   &kp COMMA  &kp DOT   &kp FSLH  &kp APOS
    &kp LCTRL  &kp LALT  &kp LGUI  &kp SPACE  &kp SPACE  &mo 1             &mo 1  &kp SPACE &kp LARW   &kp DARW  &kp UARW  &kp RARW
